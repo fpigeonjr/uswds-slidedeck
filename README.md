@@ -1,5 +1,10 @@
-
 # mdx-deck basic template
+
+# Deployment
+
+Project lives on Netlify here:
+
+[https://clever-babbage-c3f133.netlify.com/](https://clever-babbage-c3f133.netlify.com/)
 
 This was generated with [mdx-deck][]'s `npm init deck` command.
 
